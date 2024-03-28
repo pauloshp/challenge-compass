@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  background-color: #000000;
+  display: flex;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  font-family: "Poppins", sans-serif;
+  justify-content: center;
+}
